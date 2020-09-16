@@ -11,6 +11,7 @@ This project is basically to learn the use of system calls in operating system t
     ❖ Command Mode
       ➢ Copy/Delete
       ➢ Move
+      ➢ Create
 
 ## Compiling
 In source code(this) directory run:
