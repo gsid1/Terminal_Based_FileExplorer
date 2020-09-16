@@ -16,11 +16,11 @@ This project is basically to learn the use of system calls in operating system t
 ## Compiling
 In source code(this) directory run:
 ```
-* make
+make
 ```
 
 ## Running
 In terminal run:
 ```
-* ./term
+./term
 ```
